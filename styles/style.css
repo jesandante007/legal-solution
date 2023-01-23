@@ -1,0 +1,32 @@
+.text-dark-1 {
+    color: #414040;
+    font-family: 'EB Garamond', serif;
+}
+.text-dark-2 {
+    color: #414040;
+    font-family: 'Poppins', sans-serif;
+    line-height: 24px;
+}
+.text-white-1 {
+    color: white;
+    font-family: 'EB Garamond', serif;
+}
+.text-white-2 {
+    color: #CFCFCF;
+    font-family: 'Poppins', sans-serif;
+    line-height: 24px;
+}
+.btn {
+    color: white;
+    background-color: #B68C5A;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    border: 0;
+}
+.btn:hover {
+    background-color: #ad7025;
+    color: white;
+}
+.bg-dark {
+    background-color: #111111;
+}

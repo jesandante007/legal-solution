@@ -12,7 +12,7 @@
     font-family: 'EB Garamond', serif;
 }
 .text-white-2 {
-    color: #CFCFCF;
+    color: #e7e7e7;
     font-family: 'Poppins', sans-serif;
     line-height: 24px;
 }
@@ -29,4 +29,8 @@
 }
 .bg-dark {
     background-color: #111111;
+}
+.card-img-overlay {
+    background: linear-gradient(to top, #111111 0%, rgba(17, 17, 17, 0) 100%);
+    background-blend-mode: multiply;
 }
